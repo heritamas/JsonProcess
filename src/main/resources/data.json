@@ -1,0 +1,13 @@
+{"event_id":10,"data":{"name":"John Doe","salary":25000}}
+{"event_id":20,"data":{"name":"Jane Doe","salary":20000}}
+{"event_id":12345,"data":{"name":"John Doe","salary":20000}}
+{"event_id":33,"data":{"name":"Test User","foods":["Tofu","Pizza"]}}
+{"event_id":12346,"data":{"name":"John Doe","vacations":[{"place":"Paris","year":2017},{"place":"Maldives","year":2018}]}}
+{"event_id":2,"data":{"name":"Test User","salary":32000}}
+{"event_id":5,"data":{"name":"Example User","salary":12000}}
+{"event_id":21,"data":{"name":"Prototype User","foods":["Chili Con Carne","name":"Pizza"]}}
+{"event_id":32,"data":{"name":"Jane Doe","foods":["Tofu","Fish and chips"]}}
+{"event_id":52,"data":{"name":"Prototype User","salary":24000}}
+{"event_id":35,"data":{"name":"Fake User","salary":28000}}
+{"event_id":65,"data":{"name":"Mekk Elek","foods":["Ham And Cheese","Tofu"]}}
+{"event_id":64,"data":{"name":"Jane Doe","salary":30000}}
